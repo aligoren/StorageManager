@@ -42,7 +42,7 @@ console.log(multiple[0].number)
 
 var singular = sm.Parse('users', findWhere)
 
-console.log(multiple.number)
+console.log(singular.number)
 
 ```
 
